@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CagkanBozdogan
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- Currently I'm just coding time to time, for fun.
 - 📫 How to reach me: 
       LinkedIn:https://www.linkedin.com/in/cagkanbozdogan/
       Mail: cagkanbozdogan@gmail.com
